@@ -7,7 +7,7 @@ function NotFound() {
 			<Nav />
 			<main className="flex h-screen justify-center items-center">
 				<div className="flex flex-col items-center text-4xl text-primary">
-					<h1 data-testid="title" className="mb-4 text-center w-full bg-green-50">
+					<h1 data-testid="title" className="mb-4 text-center w-full">
 						Evento não encontrado
 					</h1>
 					<img src={NotFoundImg} alt="not found" className="w-6/12" />
