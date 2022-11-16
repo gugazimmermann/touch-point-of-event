@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-touchevents-dev-100622-authRole",
+      "UnauthRoleArn": "arn:aws:iam::589202358368:role/amplify-touchevents-dev-100622-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::589202358368:role/amplify-touchevents-dev-100622-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-touchevents-dev-100622-deployment",
+      "UnauthRoleName": "amplify-touchevents-dev-100622-unauthRole",
+      "StackName": "amplify-touchevents-dev-100622",
+      "StackId": "arn:aws:cloudformation:us-east-1:589202358368:stack/amplify-touchevents-dev-100622/4eb565c0-64e6-11ed-9e16-127fa318bc33",
+      "AmplifyAppId": "d1jkf9nne0evyl"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
